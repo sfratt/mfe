@@ -1,16 +1,16 @@
 {
   "folders": [
     {
-      "path": "auth"
+      "path": "packages/auth"
     },
     {
-      "path": "container"
+      "path": "packages/container"
     },
     {
-      "path": "dashboard"
+      "path": "packages/dashboard"
     },
     {
-      "path": "marketing"
+      "path": "packages/marketing"
     }
   ],
   "settings": {}
