@@ -11,6 +11,9 @@
     },
     {
       "path": "packages/marketing"
+    },
+    {
+      "path": ".github/workflows"
     }
   ],
   "settings": {}
